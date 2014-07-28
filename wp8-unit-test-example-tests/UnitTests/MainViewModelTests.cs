@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestPlatform.UnitTestFramework;
 using wp8_unit_test_example.ViewModel;
 
-namespace wp8_unit_test_example_tests
+namespace wp8_unit_test_example_tests.UnitTests
 {
     [TestClass]
     public class MainViewModelTests
